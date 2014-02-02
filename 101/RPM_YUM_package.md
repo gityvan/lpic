@@ -13,3 +13,7 @@ Install, re-install, upgrade and remove packages using RPM and YUM
 
 ### YUM repositories ###
 
+<pre><code>/etc/yum.conf                    # Config file
+/etc/yum.repos.d/                # repositories 
+
+</code></pre>
