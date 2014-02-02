@@ -27,5 +27,4 @@ yum remove  pandoc               # Remove package pandoc
 yum reinstall pandoc             # Reinstall package
 
 yum search markdown              # Search for package markdown
-
 </code></pre>
