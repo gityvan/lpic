@@ -7,7 +7,6 @@ Summary
 - Install, re-install, upgrade and remove packages using RPM and YUM.
 - Obtain information on RPM packages such as version, status, dependencies, integrity and signatures.
 - Determine what files a package provides, as well as find which package a specific file comes from.
-
 - /etc/yum.conf, /etc/yum.repos.d/
 - Yum, Yumdownloader
 - rpm, rpm2cpio
